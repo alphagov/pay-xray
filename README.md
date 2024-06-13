@@ -1,6 +1,8 @@
 pay-xray
 ========
 
+> As of June 2024 this repository is no longer actively maintained by the GOV.UK Pay team.
+
 A Docker sidecar container for GOV.UK Pay's xray (a wrapper for the AWS xray daemon).
 
 Licence
